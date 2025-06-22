@@ -55,7 +55,9 @@ Communication
 
 
 
-![image](https://github.com/user-attachments/assets/6274ee8c-5638-4282-a279-d25f4da5581c)![image](https://github.com/user-attachments/assets/4ca0867c-48ec-4f9e-9aa3-6d4ea3c931d8)![image](https://github.com/user-attachments/assets/eeab603b-5526-4c07-8bce-9b0e06d6093e)
+![image](https://github.com/user-attachments/assets/6274ee8c-5638-4282-a279-d25f4da5581c)
+![image](https://github.com/user-attachments/assets/4ca0867c-48ec-4f9e-9aa3-6d4ea3c931d8)
+![image](https://github.com/user-attachments/assets/eeab603b-5526-4c07-8bce-9b0e06d6093e)
 
 
 
