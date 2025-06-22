@@ -56,10 +56,8 @@ Communication
 
 ## 구현 페이지 
 
-
-<img src="https://github.com/user-attachments/assets/6274ee8c-5638-4282-a279-d25f4da5581c" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/6274ee8c-5638-4282-a279-d25f4da5581c" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/4ca0867c-48ec-4f9e-9aa3-6d4ea3c931d8" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/dc549e7f-e837-4959-b497-f652680862ca" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/b3165f1b-6c67-475a-99f2-97775232e511" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/eeab603b-5526-4c07-8bce-9b0e06d6093e" width="200" height="400"/>
 
 
