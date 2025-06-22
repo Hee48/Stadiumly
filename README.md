@@ -63,8 +63,9 @@ Communication
 <br/>
 <img src="https://github.com/user-attachments/assets/48252daa-9afa-4615-a741-3a6bbd322cfa" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/2f63cdde-ec14-446e-bae2-ca2dc0e94198" width="200" hieght="400"/>
-<img src="https://github.com/user-attachments/assets/c5a65eb2-54e8-4f9a-93cb-70685fc99239" width="200" hieght="400"/>
-<img src="https://github.com/user-attachments/assets/d5016a3d-2ea3-4c30-ae7b-b96cf3ee77c6" width="200" hieght="400"/>
+<img src="https://github.com/user-attachments/assets/e01d146d-42d9-4a4a-99f5-14fe2a177f8f" width="200" hieght="400"/>
+<img src="https://github.com/user-attachments/assets/ec2c8690-df25-4a53-bef1-daeb6756ba3c" width="200" hieght="400"/>
+
 
 
 
