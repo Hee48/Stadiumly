@@ -59,10 +59,13 @@ Communication
 <img src="https://github.com/user-attachments/assets/dc549e7f-e837-4959-b497-f652680862ca" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/b3165f1b-6c67-475a-99f2-97775232e511" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/eeab603b-5526-4c07-8bce-9b0e06d6093e" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/3a5d59ea-e81c-4f12-b852-9d015ce9b699" width="200" height="400"/>
-<br/>
+<img src="https://github.com/user-attachments/assets/a27593e3-4f43-40dd-9b3c-ed399a0d09d8" width="200" height="400"/>
 <br/>
 <img src="https://github.com/user-attachments/assets/48252daa-9afa-4615-a741-3a6bbd322cfa" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/2f63cdde-ec14-446e-bae2-ca2dc0e94198" width="200" hieght="400"/>
+<img src="https://github.com/user-attachments/assets/c5a65eb2-54e8-4f9a-93cb-70685fc99239" width="200" hieght="400"/>
+<img src="https://github.com/user-attachments/assets/d5016a3d-2ea3-4c30-ae7b-b96cf3ee77c6" width="200" hieght="400"/>
+
 
 
 
